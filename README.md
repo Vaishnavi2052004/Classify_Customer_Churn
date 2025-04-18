@@ -1,1 +1,2 @@
-# Classify_Customer_Churn
+Customer Churn Prediction – Telco Dataset
+This project focuses on predicting customer churn using the Telco Customer Churn dataset (available on Kaggle). The goal is to identify customers who are likely to discontinue their service based on various features like tenure, service type, and charges. The pipeline includes data cleaning, feature encoding, normalization, and training a Random Forest Classifier. Model performance is evaluated using accuracy, precision, recall, and F1-score metrics. This end-to-end machine learning workflow serves as a practical example of customer behavior modeling in a telecom setting.
